@@ -9,4 +9,4 @@
 
 * Changed international timezone to dhaka
   * Changed source list using this command: `sudo nano /etc/apt/sources.list` 
-  * Added dhakacom mirror (`http://mirror.dhakacom.com/raspbian/ wheezy main contrib non-free rpi`)
+  * -> Default one works just fine, no need to change
