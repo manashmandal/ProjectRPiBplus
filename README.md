@@ -10,3 +10,5 @@
 * Changed international timezone to dhaka
   * Changed source list using this command: `sudo nano /etc/apt/sources.list` 
   * -> Default one works just fine, no need to change
+
+* Still no luck with B+ :(
